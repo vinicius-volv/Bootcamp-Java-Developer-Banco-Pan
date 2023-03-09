@@ -1,7 +1,6 @@
 package edu.segundaSemana;
 
 public class boletimEstudantil {
-  
   public static void main(String[] args) {
 
     int mediaFinal = 7;

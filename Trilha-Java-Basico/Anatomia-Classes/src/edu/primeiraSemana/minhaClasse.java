@@ -1,7 +1,6 @@
 package edu.primeiraSemana;
 
 public class minhaClasse {
-
   public static void main(String[] args) {
 
     String primeiroNome = "Vinicius";
