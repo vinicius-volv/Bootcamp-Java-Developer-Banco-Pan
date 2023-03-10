@@ -3,7 +3,7 @@ package edu.primeiraSemana;
 public class usuario {
   public static void main(String[] args) throws Exception {
 
-    smartTv smartTv = new smartTv();
+    smarTv smartTv = new smarTv();
 
     smartTv.diminuirVolume();
     smartTv.diminuirVolume();

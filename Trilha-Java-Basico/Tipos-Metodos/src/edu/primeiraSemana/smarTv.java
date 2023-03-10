@@ -1,6 +1,6 @@
 package edu.primeiraSemana;
 
-public class smartTv {
+public class smarTv {
   
     boolean ligada = false;
     int canal = 1;
